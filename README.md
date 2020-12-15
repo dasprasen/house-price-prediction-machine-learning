@@ -1,1 +1,1 @@
-# price-prediction-machine-learning
+# house-price-prediction-machine-learning
